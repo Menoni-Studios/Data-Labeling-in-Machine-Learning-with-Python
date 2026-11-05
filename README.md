@@ -1,6 +1,6 @@
 # Data-Labeling-in-Machine-Learning-with-Python
 
-### This repo guides through essential data exploration techniques, including statistical analysis and visualization using Python libraries by <packt>.
+### This repo guides through essential data exploration techniques, including statistical analysis and visualization using Python libraries by packt.
 
 ### It covers the importance of data labeling and the role of exploratory data analysis (EDA) in preparing data for machine learning by using Pandas and Seaborn to uncover patterns and insights.
 
