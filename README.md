@@ -8,5 +8,4 @@
 *   **Apply Pandas functions to calculate summary statistics and categorize data types.**
 *   **Analyze correlation matrices and visualizations to interpret relationships between variables.**
 
-**![](images/cover_image.jpg)\
-**
+![](images/cover_image.jpg)
